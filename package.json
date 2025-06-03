@@ -36,7 +36,7 @@
     "libs/**/*"
   ],
   "devDependencies": {
-    "@angular-devkit/build-angular": "18.2.12",
+    "@angular-devkit/build-angular": "18.2.19",
     "@angular-eslint/schematics": "18.4.3",
     "@angular/cli": "18.2.12",
     "@angular/compiler-cli": "18.2.13",
@@ -167,7 +167,7 @@
     "argon2": "0.41.1",
     "argon2-browser": "1.18.0",
     "big-integer": "1.6.52",
-    "bootstrap": "4.6.0",
+    "bootstrap": "5.0.0",
     "braintree-web-drop-in": "1.44.0",
     "buffer": "6.0.3",
     "bufferutil": "4.0.9",
